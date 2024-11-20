@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-🔭 I’m currently working in FIS.<br>🤝 I’m looking for help with MERN Stack.<br>🌱 I’m currently learning React & DSA.<br>⚡ Fun fact I'm Really Funny.
+🔭 I’m currently working in FIS.<br>🤝 I’m looking for help with MERN Stack & Selenium.<br>🌱 I’m currently learning React & DSA.<br>⚡ Fun fact I'm Really Funny.
 
 
 ## 🌐 Socials:
