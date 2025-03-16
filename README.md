@@ -15,7 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-🔭 I’m currently working in FIS.<br>🤝 I’m looking for help with MERN Stack & Selenium.<br>🌱 I’m currently learning React & DSA.<br>⚡ Fun fact I'm Really Funny.
+🔭 Currently working at FIS as an Automation Test Engineer.<br>
+🤝 Exploring Selenium, Playwright & Test Automation Frameworks.<br>
+🌱 Learning CI/CD, API Testing & Advanced Automation Concepts.<br>
+💻 Diving into MERN Stack & improving Java & JavaScript skills.<br>
+⚡ Fun fact: I break software before it breaks in production! 😆<br>
+
+🚀 Passionate about delivering high-quality software through automation!<br>
 
 
 ## 🌐 Socials:
