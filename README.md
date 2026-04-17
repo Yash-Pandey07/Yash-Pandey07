@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-🔭 Currently working at FIS as an Automation Test Engineer.<br>
+🔭 Currently working at Bayone Solutions as SDET.<br>
 🤝 Exploring Selenium, Playwright & Test Automation Frameworks.<br>
 🌱 Learning CI/CD, API Testing & Advanced Automation Concepts.<br>
 💻 Diving into MERN Stack & improving Java & JavaScript skills.<br>
