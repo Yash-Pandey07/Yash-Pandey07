@@ -47,7 +47,6 @@ Senior SDET contracting at **Hims & Hers** via **Bayone Solutions** — I catch 
 
 ### 🌐 Connect
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-%236366f1.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-yash-sage.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yashpandey7)
 [![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/yashpandey07)
 [![Email](https://img.shields.io/badge/Email-ypandey777%40yahoo.in-D14836?style=for-the-badge&logo=yahoo&logoColor=white)](mailto:ypandey777@yahoo.in)
